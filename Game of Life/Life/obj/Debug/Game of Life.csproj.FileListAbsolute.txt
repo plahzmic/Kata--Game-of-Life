@@ -1,0 +1,9 @@
+E:\Game of Life C#\Game of Life\Game of Life\Life\bin\Debug\Game of Life.exe.config
+E:\Game of Life C#\Game of Life\Game of Life\Life\bin\Debug\Game of Life.exe
+E:\Game of Life C#\Game of Life\Game of Life\Life\bin\Debug\Game of Life.pdb
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\Game of Life.csprojResolveAssemblyReference.cache
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\GameOfLife.formUI.resources
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\GameOfLife.Properties.Resources.resources
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\Game of Life.csproj.GenerateResource.Cache
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\Game of Life.exe
+E:\Game of Life C#\Game of Life\Game of Life\Life\obj\Debug\Game of Life.pdb
